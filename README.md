@@ -4,6 +4,7 @@ VisualizationXD is an initiative to organize, catalogue and share resources in d
 # Where
 - Berkeley Institute for Data Science [BIDS](bids.berkeley.edu)
 - [D-Lab](dlab.berkeley.edu)
+- Computer Science - Visualization Lab (vis.berkeley.edu)
 
 # When
 - Daily: visit BIDS and check our Visualization panels
